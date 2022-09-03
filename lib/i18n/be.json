@@ -54,7 +54,7 @@
     },
     {
       "singular": "тысяча",
-      "few": "тысячв",
+      "few": "тысячы",
       "plural": "тысяч",
       "useAlternativeBase": "feminine",
       "useSingularEnding": true,
